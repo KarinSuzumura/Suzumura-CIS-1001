@@ -1,4 +1,8 @@
 #Tech Stack & Hosting Strategy
 ##Defined Tech Stack
+* React - used to build the interactive UI for the app
+* Supabase - used to organise data, and hold reviews and ratings posted by users
+* Google Maps API - used to create an interactive map, which can display locations
 
 ##Hosting & Deployment Strategy
+The application will be hosted on Firebase, and deployed in the Apple Store and Google Play Store
