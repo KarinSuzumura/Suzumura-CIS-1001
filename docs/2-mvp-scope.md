@@ -6,20 +6,19 @@ Art Link is a mobile app which helps art enthusiasts discover art museums, exhib
 
 ## The Launch Goal (v1.0 MVP)
 
-To launch a functional version by **[Insert Target Date]** focusing strictly on core value.
+To launch a functional version by October 2027 focusing strictly on core value.
 
 ## Feature Prioritization Matrix
 
 *   **Must Have (MVP Lineup):**
 
-    *   `Feature 1 Name`: [Brief description and why it's critical for launch]
+    *   Map: Map with all locations listed to help users see how far it is
 
-    *   `Feature 2 Name`: [Brief description]
+    *   Search: Users can search by names of artists, museums, event or exhibition names to find relevant information
 
-    *   `Feature 3 Name`: [Brief description]
-
+    *   Venue information: Users can find information like address, opening hours, what artworks can be seen
 *   **Nice to Have (Post-Launch Backlog):**
 
-    *   `Feature 4 Name`: [Deferred feature - explain why it can wait]
-
-    *   `Feature 5 Name`: [Deferred feature]
+    *   Reviews and ratings: Users can write and read reviews, including photos to help them decide where to visit
+      
+    *   Bookmark: Users can bookmark (save) museums, artists or events/exhibitions inside the app to not forget
