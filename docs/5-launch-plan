@@ -1,1 +1,13 @@
+# Go-To-Market & Launch Checklist
+## Marketing & User Acquisition
+* Primary Launch Channel: contacting Art student groups on campus, putting up flyers on campus bulletin boards
+* Value Proposition: Discover many art museums, exhibitions, artworks nearby and user reviews, all in one platform
 
+## Pre-Launch Deployment Checklist
+- Verify all code changes are merged into the 'main' production branch
+- Test from submissions (login, search filters, and posting reviews) for basic error handling
+- Run a cross-browser usability check (Chrome, Safari, Mobile Screens)
+## Launch Day Operations
+- Trigger final depolyment to Firebase and check the live production URL
+- Conduct live verification testing directly on the hosted platform (test map pins, opening hours, and submitting a test review)
+- Share the announcement banner and QR code link across primary marketing channels (campus)
